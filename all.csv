@@ -1,0 +1,139 @@
+,per_capita_income,median_household_income,median_family_income,population,num_of_households,name,Division Name,School Year,Division Number,Subject,Pass Rate
+0,45356.0,115574.0,130432.0,312311.0,104583.0,Loudoun County,Loudoun County,2018-2019,53.0,Mathematics,80.57
+1,55389.0,114409.0,142035.0,12332.0,5101.0,Falls Church City,Falls Church City,2018-2019,109.0,Mathematics,76.09
+2,49001.0,105416.0,124316.0,1081726.0,391627.0,Fairfax County,Fairfax County,2018-2019,29.0,Mathematics,77.84
+3,44008.0,97900.0,110240.0,22565.0,8347.0,Fairfax City,Fairfax City,,,,
+4,57724.0,94880.0,126947.0,207627.0,98050.0,Arlington City,Arlington City,,,,
+5,34691.0,93065.0,101321.0,128961.0,41769.0,Stafford County,Stafford County,2018-2019,89.0,Mathematics,93.72
+6,35737.0,91098.0,99494.0,402002.0,130785.0,Prince William County,Prince William County,2018-2019,75.0,Mathematics,93.01
+7,36840.0,84315.0,92479.0,12150.0,4525.0,Poquoson City,Poquoson City,2018-2019,142.0,Mathematics,89.6
+8,38710.0,83877.0,97548.0,65203.0,23658.0,Fauquier County,Fauquier County,2018-2019,30.0,Mathematics,49.21
+9,35823.0,81055.0,92597.0,65464.0,24006.0,York County,York County,2018-2019,98.0,Mathematics,74.78
+10,54345.0,80847.0,102017.0,139966.0,68082.0,Alexandria City,Alexandria City,2018-2019,101.0,Mathematics,79.3
+11,38553.0,79574.0,91500.0,21717.0,7998.0,Goochland County,Goochland County,2018-2019,37.0,Mathematics,77.42
+12,31012.0,76574.0,84723.0,122397.0,41942.0,Spotsylvania County,Spotsylvania County,2018-2019,88.0,Mathematics,86.52
+13,34201.0,76425.0,87756.0,99863.0,36589.0,Hanover County,Hanover County,2018-2019,42.0,Mathematics,65.7
+14,32630.0,76241.0,87155.0,23584.0,8376.0,King George County,King George County,2018-2019,48.0,Mathematics,84.43
+15,28941.0,75173.0,79893.0,37821.0,12527.0,Manassas City,Manassas City,2018-2019,143.0,Mathematics,72.31
+16,38162.0,73903.0,86756.0,67009.0,26860.0,James City County,James City County,,,,
+17,25851.0,73593.0,81476.0,28046.0,9494.0,Powhatan County,Powhatan County,2018-2019,72.0,Mathematics,94.78
+18,34630.0,73244.0,85946.0,14034.0,5509.0,Clarke County,Clarke County,2018-2019,22.0,Mathematics,87.19
+19,31711.0,71321.0,82226.0,316236.0,115680.0,Chesterfield County,Chesterfield County,2018-2019,21.0,Mathematics,69.98
+20,31741.0,70590.0,78718.0,18429.0,6813.0,New Kent County,New Kent County,2018-2019,63.0,Mathematics,62.08
+21,27335.0,70299.0,75333.0,14273.0,4507.0,Manassas Park City,Manassas Park City,2018-2019,144.0,Mathematics,80.0
+22,29407.0,68223.0,74529.0,25691.0,9449.0,Fluvanna County,Fluvanna County,2018-2019,32.0,Mathematics,78.99
+23,29306.0,67855.0,77561.0,222209.0,79574.0,Chesapeake City,Chesapeake City,2018-2019,136.0,Mathematics,94.17
+24,27507.0,65132.0,75462.0,46689.0,16231.0,Culpeper County,Culpeper County,2018-2019,24.0,Mathematics,88.77
+25,28441.0,65104.0,76586.0,84585.0,30868.0,Suffolk City,Suffolk City,2018-2019,127.0,Mathematics,74.46
+26,26853.0,64946.0,75260.0,15935.0,5979.0,King William County,King William County,2018-2019,50.0,Mathematics,89.12
+27,36685.0,64847.0,83894.0,98970.0,38157.0,Albemarle County,Albemarle County,2018-2019,2.0,Mathematics,83.39
+28,29540.0,64724.0,73032.0,33148.0,13126.0,Botetourt County,Botetourt County,2018-2019,12.0,Mathematics,70.83
+29,30873.0,64618.0,73795.0,437994.0,165089.0,Virginia Beach City,Virginia Beach City,2018-2019,128.0,Mathematics,89.49
+30,25769.0,64171.0,71769.0,35725.0,11451.0,Prince George County,Prince George County,2018-2019,74.0,Mathematics,81.11
+31,29547.0,62242.0,71732.0,35270.0,13718.0,Isle of Wight County,Isle of Wight County,2018-2019,46.0,Mathematics,79.26
+32,37149.0,62117.0,75975.0,7373.0,3072.0,Rappahannock County,Rappahannock County,2018-2019,78.0,Mathematics,84.18
+33,27977.0,61973.0,68771.0,78305.0,28864.0,Frederick County,Frederick County,2018-2019,34.0,Mathematics,58.99
+34,29098.0,60522.0,72370.0,37575.0,14085.0,Warren County,Warren County,2018-2019,93.0,Mathematics,81.0
+35,33001.0,60114.0,75140.0,306935.0,124601.0,Henrico County,Henrico County,2018-2019,43.0,Mathematics,80.0
+36,31046.0,59446.0,74660.0,92376.0,37608.0,Roanoke County,Roanoke County,2018-2019,80.0,Mathematics,77.01
+37,27395.0,59331.0,68461.0,36858.0,14293.0,Gloucester County,Gloucester County,2018-2019,36.0,Mathematics,63.92
+38,25024.0,57690.0,65949.0,28545.0,10456.0,Caroline County,Caroline County,2018-2019,17.0,Mathematics,76.12
+39,26081.0,56608.0,65164.0,13308.0,5083.0,Madison County,Madison County,2018-2019,56.0,Mathematics,84.78
+40,23835.0,55030.0,67995.0,7058.0,2826.0,Surry County,Surry County,2018-2019,90.0,Mathematics,93.29
+41,26447.0,54916.0,63886.0,33481.0,12895.0,Orange County,Orange County,2018-2019,68.0,Mathematics,87.97
+42,24969.0,54307.0,60414.0,18403.0,6780.0,Greene County,Greene County,2018-2019,39.0,Mathematics,64.92
+43,27562.0,54257.0,62703.0,33153.0,12944.0,Louisa County,Louisa County,2018-2019,54.0,Mathematics,94.74
+44,27732.0,54110.0,65508.0,68676.0,27465.0,Bedford County,Bedford County,2018-2019,10.0,Mathematics,84.38
+45,27501.0,52990.0,59613.0,17454.0,7310.0,Westmoreland County,Westmoreland County,2018-2019,95.0,Mathematics,74.29
+46,28646.0,51944.0,60872.0,12330.0,5540.0,Northumberland County,Northumberland County,2018-2019,66.0,Mathematics,83.44
+47,23423.0,51459.0,60400.0,28001.0,10504.0,Dinwiddie County,Dinwiddie County,2018-2019,27.0,Mathematics,73.25
+48,23461.0,51291.0,63134.0,5190.0,2183.0,Craig County,Craig County,2018-2019,23.0,Mathematics,74.36
+49,22851.0,50794.0,71190.0,14068.0,4571.0,Williamsburg City,Williamsburg City,,,,
+50,23571.0,50612.0,60506.0,73750.0,28516.0,Augusta County,Augusta County,2018-2019,8.0,Mathematics,80.99
+51,22083.0,50589.0,50974.0,4731.0,2162.0,Bath County,Bath County,2018-2019,9.0,Mathematics,82.76
+52,26115.0,50571.0,64154.0,17411.0,7275.0,Colonial Heights City,Colonial Heights City,2018-2019,106.0,Mathematics,70.53
+53,28539.0,50207.0,63750.0,10959.0,4708.0,Middlesex County,Middlesex County,2018-2019,59.0,Mathematics,75.86
+54,24502.0,50171.0,61363.0,41993.0,17076.0,Shenandoah County,Shenandoah County,2018-2019,85.0,Mathematics,88.78
+55,24197.0,50135.0,58029.0,12690.0,4821.0,Amelia County,Amelia County,2018-2019,4.0,Mathematics,91.33
+56,25274.0,49930.0,58067.0,76314.0,29177.0,Rockingham County,Rockingham County,2018-2019,82.0,Mathematics,86.44
+57,24051.0,49815.0,61310.0,137436.0,55031.0,Hampton City,Hampton City,2018-2019,112.0,Mathematics,83.16
+58,24249.0,49562.0,57969.0,180719.0,70664.0,Newport News City,Newport News City,2018-2019,117.0,Mathematics,85.34
+59,22388.0,49224.0,58954.0,14973.0,6033.0,Appomattox County,Appomattox County,2018-2019,6.0,Mathematics,69.61
+60,27081.0,48828.0,64254.0,24802.0,10045.0,Salem City,Salem City,2018-2019,139.0,Mathematics,68.25
+61,26996.0,48118.0,57356.0,15020.0,6396.0,Nelson County,Nelson County,2018-2019,62.0,Mathematics,85.86
+62,27011.0,47435.0,55853.0,8978.0,3858.0,Mathews County,Mathews County,2018-2019,57.0,Mathematics,98.13
+63,23955.0,46337.0,54536.0,7256.0,2955.0,Charles City County,Charles City County,2018-2019,19.0,Mathematics,89.16
+64,23795.0,46235.0,52810.0,11151.0,4517.0,Essex County,Essex County,2018-2019,28.0,Mathematics,81.78
+65,23527.0,45555.0,53066.0,56159.0,22780.0,Franklin County,Franklin County,2018-2019,33.0,Mathematics,78.89
+66,22302.0,45488.0,52830.0,95535.0,37324.0,Portsmouth City,Portsmouth City,2018-2019,121.0,Mathematics,93.63
+67,21201.0,45426.0,56830.0,18570.0,6719.0,Southampton County,Southampton County,2018-2019,87.0,Mathematics,81.6
+68,29275.0,45209.0,55083.0,11391.0,5265.0,Lancaster County,Lancaster County,2018-2019,51.0,Mathematics,76.32
+69,26341.0,44873.0,56260.0,26203.0,10607.0,Winchester City,Winchester City,2018-2019,132.0,Mathematics,87.58
+70,21097.0,44757.0,55211.0,32353.0,12560.0,Amherst County,Amherst County,2018-2019,5.0,Mathematics,75.18
+71,21777.0,44442.0,49917.0,6945.0,2882.0,King and Queen County,King and Queen County,2018-2019,49.0,Mathematics,81.2
+72,23753.0,44417.0,53889.0,22307.0,9555.0,Rockbridge County,Rockbridge County,2018-2019,81.0,Mathematics,93.65
+73,27870.0,43558.0,65699.0,24286.0,9505.0,Fredericksburg City,Fredericksburg City,2018-2019,110.0,Mathematics,77.01
+74,25690.0,43481.0,51326.0,2321.0,1081.0,Highland County,Highland County,2018-2019,45.0,Mathematics,92.89
+75,22044.0,43478.0,53566.0,54842.0,22441.0,Campbell County,Campbell County,2018-2019,16.0,Mathematics,90.27
+76,22040.0,43229.0,65654.0,94392.0,35767.0,Montgomery County,Montgomery County,2018-2019,60.0,Mathematics,72.41
+77,22013.0,43160.0,53205.0,16250.0,6891.0,Alleghany County,Alleghany County,2018-2019,3.0,Mathematics,89.19
+78,24077.0,42724.0,57842.0,23746.0,10480.0,Staunton City,Staunton City,2018-2019,126.0,Mathematics,83.13
+79,23773.0,42677.0,51022.0,242803.0,86485.0,Norfolk City,Norfolk City,2018-2019,118.0,Mathematics,95.47
+80,24578.0,42240.0,62378.0,43475.0,17778.0,Charlottesville City,Charlottesville City,2018-2019,104.0,Mathematics,63.97
+81,19965.0,42182.0,60250.0,9254.0,3159.0,Richmond County,Richmond County,2018-2019,79.0,Mathematics,94.67
+82,21425.0,42044.0,50759.0,15279.0,6415.0,Floyd County,Floyd County,2018-2019,31.0,Mathematics,67.83
+83,22969.0,41617.0,51543.0,24042.0,9746.0,Page County,Page County,2018-2019,69.0,Mathematics,86.63
+84,20468.0,41552.0,45534.0,6824.0,2566.0,Bland County,Bland County,2018-2019,11.0,Mathematics,68.24
+85,22766.0,41372.0,49727.0,33164.0,13798.0,Accomack County,Accomack County,2018-2019,1.0,Mathematics,78.6
+86,20985.0,41186.0,48966.0,17286.0,7215.0,Giles County,Giles County,2018-2019,35.0,Mathematics,72.38
+87,20976.0,41163.0,48884.0,34872.0,14821.0,Pulaski County,Pulaski County,2018-2019,77.0,Mathematics,96.33
+88,23190.0,40977.0,47585.0,21006.0,8903.0,Waynesboro City,Waynesboro City,2018-2019,130.0,Mathematics,92.59
+89,23488.0,40422.0,51276.0,54876.0,22843.0,Washington County,Washington County,2018-2019,94.0,Mathematics,85.44
+90,19691.0,40143.0,50007.0,10052.0,3980.0,Cumberland County,Cumberland County,2018-2019,25.0,Mathematics,82.64
+91,19030.0,39955.0,46081.0,6650.0,2603.0,Buena Vista City,Buena Vista City,2018-2019,103.0,Mathematics,82.2
+92,20652.0,39224.0,49166.0,63506.0,26183.0,Pittsylvania County,Pittsylvania County,2018-2019,71.0,Mathematics,82.69
+93,20589.0,38948.0,47119.0,29235.0,12472.0,Wythe County,Wythe County,2018-2019,97.0,Mathematics,89.11
+94,17631.0,38574.0,49741.0,12243.0,3566.0,Greensville County,Greensville County,2018-2019,40.0,Mathematics,56.11
+95,26034.0,38266.0,47364.0,204214.0,87151.0,Richmond City,Richmond City,2018-2019,123.0,Mathematics,86.23
+96,16735.0,37978.0,48817.0,12087.0,3994.0,Sussex County,Sussex County,2018-2019,91.0,Mathematics,82.69
+97,19148.0,37789.0,43862.0,22591.0,9129.0,Hopewell City,Hopewell City,2018-2019,114.0,Mathematics,84.23
+98,17744.0,37424.0,41968.0,12914.0,4957.0,Lunenburg County,Lunenburg County,2018-2019,55.0,Mathematics,87.14
+99,20318.0,37344.0,44559.0,15853.0,5706.0,Nottoway County,Nottoway County,2018-2019,67.0,Mathematics,82.71
+100,16750.0,37235.0,53529.0,48914.0,15988.0,Harrisonburg City,Harrisonburg City,2018-2019,113.0,Mathematics,75.58
+101,21586.0,37058.0,50196.0,75568.0,28476.0,Lynchburg City,Lynchburg City,2018-2019,115.0,Mathematics,82.41
+102,19142.0,36449.0,44233.0,32420.0,13634.0,Petersburg City,Petersburg City,2018-2019,120.0,Mathematics,80.94
+103,20162.0,36431.0,46192.0,32727.0,13495.0,Mecklenburg County,Mecklenburg County,2018-2019,58.0,Mathematics,89.1
+104,22530.0,36422.0,46322.0,97032.0,42712.0,Roanoke City,Roanoke City,2018-2019,124.0,Mathematics,92.3
+105,18192.0,36191.0,49824.0,23368.0,7916.0,Prince Edward County,Prince Edward County,2018-2019,73.0,Mathematics,87.26
+106,18670.0,36142.0,44882.0,30042.0,12831.0,Carroll County,Carroll County,2018-2019,18.0,Mathematics,86.04
+107,18396.0,35813.0,41130.0,18490.0,8081.0,Patrick County,Patrick County,2018-2019,70.0,Mathematics,95.21
+108,23233.0,35760.0,47995.0,12389.0,5323.0,Northampton County,Northampton County,2018-2019,65.0,Mathematics,75.19
+109,20781.0,35277.0,47188.0,5961.0,2632.0,Covington City,Covington City,2018-2019,107.0,Mathematics,72.22
+110,19016.0,35215.0,43428.0,45078.0,18449.0,Tazewell County,Tazewell County,2018-2019,92.0,Mathematics,81.11
+111,16739.0,35184.0,43018.0,17434.0,6366.0,Brunswick County,Brunswick County,2018-2019,13.0,Mathematics,90.35
+112,17348.0,34881.0,48266.0,12586.0,5109.0,Charlotte County,Charlotte County,2018-2019,20.0,Mathematics,83.94
+113,19906.0,34864.0,43790.0,32208.0,13319.0,Smyth County,Smyth County,2018-2019,86.0,Mathematics,82.9
+114,16752.0,34720.0,43589.0,17146.0,5965.0,Buckingham County,Buckingham County,2018-2019,15.0,Mathematics,87.07
+115,19909.0,34705.0,44518.0,36241.0,15085.0,Halifax County,Halifax County,2018-2019,41.0,Mathematics,64.26
+116,18667.0,34250.0,43112.0,23177.0,9775.0,Scott County,Scott County,2018-2019,84.0,Mathematics,85.34
+117,19206.0,34086.0,42637.0,54151.0,23151.0,Henry County,Henry County,2018-2019,44.0,Mathematics,84.27
+118,24145.0,33944.0,49775.0,3958.0,1750.0,Norton City,Norton City,2018-2019,119.0,Mathematics,96.27
+119,17944.0,33608.0,41625.0,41452.0,15968.0,Wise County,Wise County,2018-2019,96.0,Mathematics,90.32
+120,19453.0,33174.0,41821.0,8582.0,3530.0,Franklin City,Franklin City,2018-2019,135.0,Mathematics,75.15
+121,19245.0,32788.0,39410.0,5927.0,2316.0,Emporia City,Emporia City,,,,
+122,17909.0,32780.0,42648.0,28897.0,11943.0,Russell County,Russell County,2018-2019,83.0,Mathematics,83.66
+123,19766.0,32408.0,43176.0,13821.0,6084.0,Martinsville City,Martinsville City,2018-2019,116.0,Mathematics,96.91
+124,20092.0,32262.0,41026.0,6222.0,2627.0,Bedford City,Bedford City,,,,
+125,19499.0,32178.0,40205.0,15533.0,6846.0,Grayson County,Grayson County,2018-2019,38.0,Mathematics,78.08
+126,19700.0,32079.0,39212.0,17835.0,7879.0,Bristol City,Bristol City,2018-2019,102.0,Mathematics,76.21
+127,17022.0,31571.0,62109.0,7042.0,2237.0,Lexington City,Lexington City,2018-2019,137.0,Mathematics,77.04
+128,16513.0,31352.0,41204.0,25587.0,10159.0,Lee County,Lee County,2018-2019,52.0,Mathematics,87.12
+129,18840.0,29936.0,39198.0,43055.0,18831.0,Danville City,Danville City,2018-2019,108.0,Mathematics,95.42
+130,16742.0,29183.0,36829.0,24098.0,9968.0,Buchanan County,Buchanan County,2018-2019,14.0,Mathematics,84.56
+131,16496.0,29155.0,58258.0,16408.0,5990.0,Radford City,Radford City,2018-2019,122.0,Mathematics,95.29
+132,16278.0,29080.0,34077.0,15903.0,6590.0,Dickenson County,Dickenson County,2018-2019,26.0,Mathematics,85.96
+133,19609.0,22333.0,38513.0,7042.0,2922.0,Galax City,Galax City,2018-2019,111.0,Mathematics,89.27
+134,,,,,,,Arlington County,2018-2019,7.0,Mathematics,86.07
+135,,,,,,,Colonial Beach,2018-2019,202.0,Mathematics,82.93
+136,,,,,,,West Point,2018-2019,207.0,Mathematics,84.4
+137,,,,,,,Williamsburg-James City County,2018-2019,131.0,Mathematics,89.61

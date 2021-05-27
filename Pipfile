@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+folium = "*"
+pandas = "*"
+colour = "*"
+googlemaps = "*"
+branca = "*"
+geopy = "*"
+matplotlib = "*"
+plotly = "*"
+ipywidgets = "*"
+bokeh = "*"
+openpyxl = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
